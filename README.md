@@ -8,6 +8,8 @@ images for research purposes.
 2. Enable developer mode (Edit > Application Settings > Developer > 
 Check Enable developer mode and QT testing. Restart Slicer.
 3. Clone (or download) this repository.
+4. Download data [here](https://drive.google.com/file/d/1--CvvV5S1JSroahg2z7N05WfT_Igf3e1/view?usp=sharing) Unzip data files and move them to the folder data in 
+   this repository.
 
 ## How to set variables
 1. Go in src/navigation.py file and follow configuration at the top of the file.
@@ -37,7 +39,7 @@ Check Enable developer mode and QT testing. Restart Slicer.
 
 4. Double check that the paths in your 3DSlicer application are functionals 
    since you may experience troubleshooting if not. You may find a testing  
-   script [here](../resources/SlicerWithExtensions.sh)
+   script [here](https://github.com/maxradx/slicer_exploration_basic/tree/main/resources)
 
 
 5. Before running navigation.py, make sur you do not have hidden file such 
@@ -59,11 +61,11 @@ we show an automated method to open the last volume loaded in 3DSlicer at next
 startup (in the script, it is possible to adapt the new loaded volume at startup 
 to be the next volume to be loaded);
 
-Demonstration video of example 1 can be found [here](../resources/example1slicer.mov).
+Demonstration video of example 1 can be found [here](https://drive.google.com/file/d/1zusk2_CiTCxuF3b86Z5dNREMJJIgcH9m/view?usp=sharing).
 
 2. Write in an external file from clicking a GUI push button in 3DSlicer.
 
-Demonstration video of example 2 can be found [here](../resources/example2slicer.mov).
+Demonstration video of example 2 can be found [here](https://drive.google.com/file/d/1zutFemtv_x3iF1kxEC9YoiANvGKNIJbv/view?usp=sharing).
 
 
 ## Analysis
